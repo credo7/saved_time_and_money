@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# personal data
+data.txt
+
+# pycharm
+.idea
+
 # Distribution / packaging
 .Python
 build/
