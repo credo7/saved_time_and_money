@@ -7,21 +7,27 @@ For example, consider cooking at home instead of going out. By doing so, you can
 
 ## Installation
 ### 1. Clone the repository:
-- git clone https://github.com/credo/saved_time_and_money.git
+```bash
+git clone https://github.com/credo/saved_time_and_money.git
+```
 
 ### 2. Install the required dependencies:
 
-- pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ### 3. Create a new Telegram bot and obtain the API token.
 
 ### 4. Create a file named .env and add your Telegram bot token:
-
+```bash
 TELEGRAM_BOT_TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-
+```
 ## Usage
 ### 1. Run the bot using the following command:
-- python main.py
+```bash
+python main.py
+```
 
 ### 2. Open Telegram and search for your bot by its username.
 
